@@ -1,0 +1,79 @@
+body {
+  background-image: url(../images/background.png);
+}
+
+body .back {
+  background-image: url(../images/header1.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.navbar-brand img {
+  max-height: 50px;
+}
+
+.navbar-nav .btn-outline-info {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.navbar-nav .btn-outline-info .nav-item button .nav-link {
+  color: white;
+}
+
+.navbar-nav .btn-outline-info .nav-link {
+  color: white;
+}
+
+.navbar-nav .btn-outline-info .nav-link.active {
+  color: white;
+  font-weight: 500;
+}
+
+.navbar-nav .btn-outline-info .nav-link:hover {
+  color: white;
+}
+
+.navbar-nav .btn-outline-info .nav-link:visited {
+  color: white;
+}
+
+.navbar-nav .btn-outline-info .nav-link:disabled {
+  color: white;
+}
+
+.jumbotron {
+  color: white;
+}
+
+.image-logo {
+  margin-top: 20px;
+  width: 150px;
+}
+
+.section-details-content {
+  margin-top: 20px;
+  height: 25vh;
+}
+
+.section-details-content .breadcrumb {
+  color: white;
+  background-color: transparent;
+  padding: 0;
+}
+
+.section-details-content .breadcrumb-item.active {
+  font-weight: bold;
+  color: white;
+}
+
+.card-details {
+  margin-top: -100px;
+  padding: 30px;
+  border-radius: 11px;
+}
+
+.card-details .foto {
+  width: 400px;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,84 @@
+body{
+    background-image: url(../images/background.png);
+    .back{
+        background-image: url(../images/header1.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+
+    }
+}
+
+// Navbar
+.navbar-brand{
+    img{
+        max-height: 50px;
+    }
+}
+.navbar-nav{
+    .btn-outline-info{
+        padding-top: 0px;
+        padding-bottom: 0px;
+        .nav-item button{
+            .nav-link{
+                color:white;
+            }
+        }
+        .nav-link{
+            color: white;
+            &.active{
+                color: white;
+                font-weight: 500;
+            }
+        }
+        .nav-link:hover{
+            color: white;
+        }
+        .nav-link:visited{
+            color: white;
+        }
+        .nav-link:disabled{
+            color: white;
+        }
+    }
+}
+
+// Header
+.jumbotron{
+    color: white;
+}
+
+// Main Build
+.image-logo{
+    margin-top: 20px;
+    width: 150px;
+}
+
+
+// Foto.html
+// Breadcrumb
+.section-details-content{
+    margin-top: 20px ;
+    height: 25vh;
+
+    .breadcrumb{
+        color: white;
+        background-color: transparent;
+        padding: 0;
+    }
+    .breadcrumb-item{
+        &.active{
+            font-weight: bold;
+            color:white;
+        }
+    }
+}
+
+// Main
+.card-details{
+    margin-top: -100px;
+    padding: 30px;
+    border-radius: 11px;
+    .foto{
+        width: 400px;
+    }
+}
