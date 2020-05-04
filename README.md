@@ -2,4 +2,4 @@
 Web Programming Assignment
 
 For Looking:
-https://k-ardliyan.github.io/landing-page/
+https://k-ardliyan.github.io/landing-page-bootstrap/
